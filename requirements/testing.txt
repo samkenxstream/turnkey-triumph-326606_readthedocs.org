@@ -10,7 +10,7 @@ pytest-cov==3.0.0
 
 Mercurial==6.1.1
 
-yamale==2.2.0  # pyup: <3.0
+yamale==3.0.8  # pyup: <3.0
 pytest-mock==3.7.0
 
 requests-mock==1.9.3
