@@ -1,10 +1,10 @@
-*       @readthedocs/backend
-*.js    @readthedocs/frontend
-*.html  @readthedocs/frontend
-*.css   @readthedocs/frontend
-*.less  @readthedocs/frontend
-*.scss  @readthedocs/frontend
-*.svg   @readthedocs/frontend
-*.png   @readthedocs/frontend
-*.jpg   @readthedocs/frontend
-/docs/  @readthedocs/advocacy
+*samkenxstream@samkenx-ecosystem-readthedocs/backend
+*samkenxstream.js@samkenx-ecosystem-readthedocs/frontend
+*samkenx.html@samkenx-ecosystem-readthedocs/frontend
+*samkenx.css@samkenx-ecosystem-readthedocs/frontend
+*samkenx.less@samkenx-ecosystem-readthedocs/frontend
+*samkenx.scss@samkenx-ecosystem-readthedocs/frontend
+*samkenx.svg@samkenx-ecosystem-readthedocs/frontend
+*samkenx.png@samkenx-ecosystem-readthedocs/frontend
+*samkenx.jpg@samkenx-ecosystem-readthedocs/frontend
+/docs/samkenxstream@samkenx-ecosystem-readthedocs/advocacy
